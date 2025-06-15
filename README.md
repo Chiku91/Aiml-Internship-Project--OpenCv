@@ -71,6 +71,7 @@ Aiml Internship/
 ├── match_cross_camera.py
 └── draw_ids.py
 
+
 How to Run the Project
 🔍 Step 1: Detect Players and Save Crops
 bash
@@ -94,6 +95,7 @@ python match_cross_camera.py
 Step 5: Draw Player Id's on Original broadcast
 
 This script overlays player IDs on the original broadcast and tacticam videos using bounding boxes based on matched crops and frame indices.
+
 bash
 python draw_ids.py
 
